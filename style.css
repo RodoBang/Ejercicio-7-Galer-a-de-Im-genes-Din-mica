@@ -1,0 +1,21 @@
+.main-container {
+    margin:  50px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    column-gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-img {
+    margin: 10px;
+}
+
+.miniaturas {
+    display: flex;
+}
+
+.min-container img{
+    height: 110px;
+}
